@@ -1,0 +1,91 @@
+@media(min-width:468px){
+  .fullpage{
+
+  }
+}
+body{
+  background-color: #90EE90;
+}
+.images {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+}
+.page{
+    justify-content: center;
+}
+
+h1{
+  font-size: 70px;
+  text-transform: uppercase;
+    letter-spacing: 3px;
+     text-shadow: 3px 2px blue;
+ text-align: center;
+  border-top-style: dotted;
+ border-right-style: solid;
+ border-bottom-style: dotted;
+ border-left-style: solid;
+background-color: #FFFACD;
+    text-decoration: underline;
+     font-style: italic;
+     font-family: "Comic Sans MS", cursive, sans-serif;
+
+}
+
+h2{
+  font-size: 45px;
+  text-transform: uppercase;
+    letter-spacing: 7px;
+     text-shadow: 3px 2px blue;
+ text-align: center;
+  border-top-style: dotted;
+ border-right-style: solid;
+ border-bottom-style: dotted;
+ border-left-style: solid;
+background-color: #FFFACD;
+     font-style: italic;
+     font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h3{
+  font-size: 35px;
+  text-transform: uppercase;
+    letter-spacing: 7px;
+     text-shadow: 3px 2px blue;
+ text-align: center;
+  border-top-style: dotted;
+ border-right-style: solid;
+ border-bottom-style: dotted;
+ border-left-style: solid;
+background-color: #FFFACD;
+     font-style: italic;
+     font-family: "Comic Sans MS", cursive, sans-serif;
+
+}
+
+h4{
+  font-size: 27px;
+
+    letter-spacing: 7px;
+     text-shadow: 3px 2px blue;
+ text-align: center;
+  border-top-style: dotted;
+ border-right-style: solid;
+ border-bottom-style: dotted;
+ border-left-style: solid;
+background-color: #FFFACD;
+     font-style: italic;
+     font-family: "Comic Sans MS", cursive, sans-serif;
+
+}
+
+img {
+  height: 1000px;
+  width: 80%;
+  border: 7px solid darkblue;
+  padding: 50px;
+  margin: 20px;
+  object-fit: cover;
+  background-color: 	#4169E1;
+}
